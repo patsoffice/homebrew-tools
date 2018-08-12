@@ -1,4 +1,4 @@
-class UnisonFSMonitor < Formula
+class UnisonFsmonitor < Formula
   desc "Local file-system monitor for the Unison file synchronization tool"
   homepage "https://github.com/patsoffice/mac-unison-fsmonitor"
   url "https://github.com/patsoffice/mac-unison-fsmonitor/releases/download/v1.0-beta.1/unison-fsmonitor"
