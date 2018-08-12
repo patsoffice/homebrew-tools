@@ -6,6 +6,6 @@ class UnisonFsmonitor < Formula
   sha256 "7dd3db04874d55f10ecd53f43c5a5012ae92466f868c77f52eed9a9fa3c8eddb"
 
   def install
-    bin.install unison-fsmonitor
+    bin.install 'unison-fsmonitor'
   end
 end
