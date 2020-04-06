@@ -12,10 +12,10 @@ You’ll need [homebrew](http://brew.sh/) installed, before running these.
 brew tap patsoffice/tools
 ```
 
-Afterwards, install tools like you would with any other formula. For example, to install `unsion-fsmonitor`, run:
+Afterwards, install tools like you would with any other formula. For example, to install `aliasman`, run:
 
 ```
-brew install unison-fsmonitor
+brew install aliasman
 ```
 
 #### License
