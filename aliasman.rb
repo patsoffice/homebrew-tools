@@ -6,6 +6,7 @@ class Aliasman < Formula
     sha256 "0fcecc0f6c427b303be9ba428cae3777eeff2d65431ebf77b659c9f05078cdaf"
   
     def install
-      bin.install 'aliasman'
+      bin.install 'aliasman_darwin_amd64'
+      mv bin/"aliasman_darwin_amd64", bin/"aliasman"
     end
   end
