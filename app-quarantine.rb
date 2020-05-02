@@ -1,9 +1,9 @@
 class AppQuarantine < Formula
     desc "app-quarantine -- A tool to identify and fix app quarantine issues on macOS"
     homepage "https://github.com/patsoffice/app-quarantine"
-    url "https://github.com/patsoffice/app-quarantine/releases/download/v1.0.0/app-quarantine_darwin_amd64"
-    version "v1.0.0"
-    sha256 "31520429b61213df18ef6ed692879f6b3bdff1031a6a1165c77ce98301f4728b"
+    url "https://github.com/patsoffice/app-quarantine/releases/download/v1.0.1/app-quarantine_darwin_amd64"
+    version "v1.0.1"
+    sha256 "74d2efb26b3157230e0742a609921c66d637087f509c317a5c9f2148b6ace617"
 
     def install
       bin.install 'app-quarantine_darwin_amd64'
